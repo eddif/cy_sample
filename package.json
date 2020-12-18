@@ -1,0 +1,15 @@
+{
+    "name": "cy-sample-code",
+    "version": "1.0.0",
+    "description": "Cypress Sample for Veneti",
+    "main": "script.js",
+    "scripts": {
+        "start": "lite-server"
+    },
+    "author": "Eddi",
+    "license": "UNLICENSED",
+    "devDependencies": {
+        "cypress": "^6.1.0",
+        "lite-server": "^2.5.4"
+    }
+}
