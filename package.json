@@ -4,12 +4,11 @@
     "description": "Cypress Sample for Veneti",
     "main": "script.js",
     "scripts": {
-        "start": "lite-server"
+        "start": "cypress open"
     },
     "author": "Eddi",
     "license": "UNLICENSED",
     "devDependencies": {
-        "cypress": "^6.1.0",
-        "lite-server": "^2.5.4"
+        "cypress": "^6.1.0"
     }
 }
